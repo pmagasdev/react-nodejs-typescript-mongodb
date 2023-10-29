@@ -1,0 +1,11 @@
+replicas:
+app:
+component:
+version:
+repo:
+owner:
+nextOfKin:
+namespace:
+host:
+backendService:
+domainName:

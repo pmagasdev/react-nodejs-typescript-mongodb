@@ -1,0 +1,4 @@
+name: Deploy Environment (Manifests)
+
+on: [workflow_dispatch]
+
